@@ -1,5 +1,5 @@
-# First of all past the passwords that portswigger gave us in new passwords.txt file in the same directory
-## as this python script
+# First of  past the passwords that portswigger gave us in new passwords.txt file in the same directory
+# as this python script
 
 # Opening The password credntioals file that portswigger gave us
 original_passwords = open("passwords.txt", "r").read().splitlines()
