@@ -18,4 +18,4 @@ The goal of this lab is to bypass authentication and gain unauthorized access to
 
 The application implements a persistent session mechanism vulnerable to brute forcing
 
-Note : Thanks for Rana Khalil For Her Youtube video of this lab I toke screen shots from her YT video because i have some Problems in my BurbSuite So Taking screen shot from  her video make my screenshot quailty better :)
+Note : Thanks for Rana Khalil For Her Youtube video of this lab I toke screen shots from her YT video because i have some Problems in my BurpSuite So Taking screen shot from  her video make my screenshot quailty better :)
